@@ -1,0 +1,33 @@
+{
+  "name": "msaic",
+  "version": "0.1.0",
+  "description": "Microsoft Application Insights Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caian-org/msaic.git"
+  },
+  "keywords": [
+    "microsoft",
+    "application",
+    "insight",
+    "applicationinsight",
+    "azure",
+    "client"
+  ],
+  "author": "Caian R. Ertl",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/caian-org/msaic/issues"
+  },
+  "homepage": "https://github.com/caian-org/msaic#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1"
+  }
+}
